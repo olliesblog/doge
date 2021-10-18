@@ -1,13 +1,15 @@
 TRANSPARDOGE
 
 Token: https://dogeparty.xchain.io/asset/TRANSPARDOGE
+Original art: https://i.imgur.com/yNzKNzG.jpg
 Thumbnail: https://i.imgur.com/c1FXsy9.jpg
-Original Art: https://i.imgur.com/yNzKNzG.jpg
+Issued: 300
 
 Artist: @olliesblog
 
 Description: TRANSPARENT DOGE (BECAUSE INVISIBLE IS SO OCTOBER 2017)
 
-Background: A modernm, alternative twist for the Doge directory. This card pays homage to RarePepeWallet card "INVISIBLPEPE", Series 30, Card 50 - 1500 Issued with an alternative take on the idea.
+Background: A modern, alternative twist for the Doge directory.
+This card pays homage to RarePepeWallet card "INVISIBLPEPE", Series 30, Card 50 - 1500 Issued.
 
-More Info on INVISIBLPEPE: http://rarepepedirectory.com/?p=5696
+More info on INVISIBLPEPE here: http://rarepepedirectory.com/?p=5696
