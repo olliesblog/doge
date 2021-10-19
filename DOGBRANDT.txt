@@ -3,12 +3,12 @@ DOGBRANDT
 Token: https://dogeparty.xchain.io/asset/DOGBRANDT
 Original Art: https://i.imgur.com/8MEYbKs.jpg
 Thumbnail: https://i.imgur.com/5WTAiX5.jpg
-
+Issued: 160
 Artist: @olliesblog
 
-Description: A "painting" of Doge dog, over the origianl 1660 Rembrandt "self-portrait" using Photoshop oils.
+Description: DOGBRANDT
 
-Background:
+Background: A "painting" of Doge dog, over the origianl 1660 Rembrandt "self-portrait" using Photoshop oils.
 
 More Info on Rembrandt: https://en.wikipedia.org/wiki/Self-Portrait_(Rembrandt,_Altman)
 https://www.metmuseum.org/art/collection/search/437397
