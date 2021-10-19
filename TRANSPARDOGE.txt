@@ -4,7 +4,6 @@ Token: https://dogeparty.xchain.io/asset/TRANSPARDOGE
 Original art: https://i.imgur.com/yNzKNzG.jpg
 Thumbnail: https://i.imgur.com/c1FXsy9.jpg
 Issued: 300
-
 Artist: @olliesblog
 
 Description: TRANSPARENT DOGE (BECAUSE INVISIBLE IS SO OCTOBER 2017)
