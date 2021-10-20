@@ -1,7 +1,7 @@
 DOGETOBER
 
 Token: https://dogeparty.xchain.io/asset/DOGETOBER
-Original Art: https://i.imgur.com/GXwFW8M.gif
+Original Art: https://i.imgur.com/0ebX86W.gif
 Thumbnail: https://i.imgur.com/5WTAiX5.jpg
 Issued: 150
 Artist: @olliesblog
